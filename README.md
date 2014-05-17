@@ -1,4 +1,6 @@
-# Automated Readability Index [![Build Status](https://travis-ci.org/duereg/automated-readability-index.svg?branch=master)](https://travis-ci.org/duereg/automated-readability-index)
+[![Build Status](https://travis-ci.org/duereg/automated-readability-index.svg?branch=master)](https://travis-ci.org/duereg/automated-readability-index)
+
+# Automated Readability Index
 
 npm module for calcuating the [automated readability index](http://en.wikipedia.org/wiki/Automated_Readability_Index).
 
