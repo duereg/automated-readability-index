@@ -1,4 +1,3 @@
-
 var getAutomatedReadabilityIndex = function(numOfWords, numOfCharacters) {
   return Math.round(4.75 * (numOfCharacters / numOfWords) + 0.5 * numOfWords - 21.43);
 };
