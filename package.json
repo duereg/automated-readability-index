@@ -1,0 +1,34 @@
+{
+  "name": "automated-readability-index",
+  "version": "0.0.1",
+  "description": "calculate automated readability index",
+  "main": "automatedReadabilityIndex.js",
+  "homepage": "https://github.com/duereg/automated-readability-index",
+  "author": "Matt Blair <matt@mattblair.co> (http://mattblair.co)",
+  "bugs": {
+    "url": "https://github.com/duereg/automated-readability-index/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duereg/automated-readability-index.git"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node test"
+  },
+  "keywords": [
+    "english",
+    "writing",
+    "prose",
+    "words",
+    "automatedReadabilityIndex",
+    "readability"
+  ],
+  "author": "Matt Blair",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-node": "^1.14.3"
+  }
+}
