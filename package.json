@@ -1,7 +1,7 @@
 {
   "name": "automated-readability-index",
   "version": "0.0.1",
-  "description": "calculate automated readability index",
+  "description": "Calculate Automated Readability Index",
   "main": "automatedReadabilityIndex.js",
   "homepage": "https://github.com/duereg/automated-readability-index",
   "author": "Matt Blair <matt@mattblair.co> (http://mattblair.co)",
