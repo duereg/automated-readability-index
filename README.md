@@ -1,4 +1,7 @@
 [![Build Status](https://travis-ci.org/duereg/automated-readability-index.svg?branch=master)](https://travis-ci.org/duereg/automated-readability-index)
+[![devDependencies](https://david-dm.org/duereg/automated-readability-index/dev-status.png)](https://david-dm.org/duereg/automated-readability-index#info=devDependencies&view=table)
+[![NPM version](https://badge.fury.io/js/automated-readability-index.svg)](http://badge.fury.io/js/automated-readability-index)
+
 
 # Automated Readability Index
 
